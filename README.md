@@ -1,28 +1,21 @@
-[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+##My Fabric Sample
 
-## Hyperledger Fabric Samples
+##Environment used:
 
-Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
-to ensure you have the correct prerequisites installed. Please use the
-version of the documentation that matches the version of the software you
-intend to use to ensure alignment.
+Computer Speculation
+Processor: AMD A10-5750M APU with Radeon(tm)
+OS: Ubuntu 16.04.5 LTS(64 bit) 4GB RAM/ 1TB Storage
 
-## Download Binaries and Docker Images
+##Tools used:
+Visual Studio Code
+Postman
 
-The [`scripts/bootstrap.sh`](https://github.com/hyperledger/fabric-samples/blob/release-1.3/scripts/bootstrap.sh)
-script will preload all of the requisite docker
-images for Hyperledger Fabric and tag them with the 'latest' tag. Optionally,
-specify a version for fabric, fabric-ca and thirdparty images. Default versions
-are 1.4.0, 1.4.0 and 0.4.14 respectively.
 
-```bash
-./scripts/bootstrap.sh [version] [ca version] [thirdparty_version]
-```
+1. First go to github and clone the https://github.com/johnneezaratee/my-fabric-sample.git
+2. After you clone the repository go to terminal and go to the directory clone directory
+3. Go to Fabcar folder and open terminal
+4. Type ./openScm
+5. Type npm install
+6. After the installation type enrollAdmin.js and registerUser.js
+7. Go to Postman and play with the smart contracts
 
-## License <a name="license"></a>
-
-Hyperledger Project source code files are made available under the Apache
-License, Version 2.0 (Apache-2.0), located in the [LICENSE](LICENSE) file.
-Hyperledger Project documentation files are made available under the Creative
-Commons Attribution 4.0 International License (CC-BY-4.0), available at http://creativecommons.org/licenses/by/4.0/.
-# myfabricsample-
