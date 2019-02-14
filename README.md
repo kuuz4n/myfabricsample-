@@ -1,12 +1,12 @@
-##My Fabric Sample
+# My Fabric Sample
 
-##Environment used:
+# Environment used:
 
 Computer Speculation
 Processor: AMD A10-5750M APU with Radeon(tm)
 OS: Ubuntu 16.04.5 LTS(64 bit) 4GB RAM/ 1TB Storage
 
-##Tools used:
+# Tools used:
 Visual Studio Code
 Postman
 
